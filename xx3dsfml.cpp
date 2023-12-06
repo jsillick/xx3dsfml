@@ -12,7 +12,7 @@
 #include <queue>
 
 #define NAME "xx3dsfml"
-#define PRODUCT "N3DSXL"
+#define PRODUCT "N3DSXL.2"
 
 #define BULK_OUT 0x02
 #define BULK_IN 0x82
