@@ -2,7 +2,6 @@
  * This software is provided as is, without any warranty, express or implied.
  * Copyright 2023 Chris Malnick. All rights reserved.
  */
-
 #include <ftd3xx.h>
 
 #include <SFML/Audio.hpp>
